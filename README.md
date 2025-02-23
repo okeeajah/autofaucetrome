@@ -11,7 +11,7 @@ Automation bot for claiming faucet in Rome Testnet. This bot helps automate the 
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/yourusername/autofaucetrome.git
+git clone https://github.com/okeeajah/autofaucetrome.git
 cd autofaucetrome
 ```
 
